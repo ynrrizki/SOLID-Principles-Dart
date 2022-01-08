@@ -1,9 +1,14 @@
 SOLID 
-S-ingle Responsibility Principle
-O-pen / Closed Principle
-L-iskov Substitution Principle
-I-nterface Segregation Principle
-D-ependency Inversion Principle
+-------------------------------
+- S-ingle Responsibility Principle
+
+- O-pen / Closed Principle
+
+- L-iskov Substitution Principle
+
+- I-nterface Segregation Principle
+
+- D-ependency Inversion Principle
 
 1- Single Responsibility Principle
 -------------------------------
@@ -67,7 +72,8 @@ Prinsip Pembalikan Ketergantungan
    boleh bergantung pada detil, detil lah
    yang harus bergantung pada abstraction.
    
-   High level modul = kemungkinan berubahnya kecil
-   Low level modul = kemungkinan berubahnya kecil
+   - High level modul = kemungkinan berubahnya kecil
+   
+   - Low level modul = kemungkinan berubahnya kecil
    
    
